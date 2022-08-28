@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![user:3290143's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3290143?theme=dark)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
 <!--
 **andrewlamyw/andrewlamyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
