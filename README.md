@@ -2,12 +2,12 @@
 
 # Technologies & Tools 🔧 
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7cb34c)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=7cb34c)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7cb34c)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=7cb34c)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=7cb34c)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7cb34c)
 
 # GitHub Stats
 
