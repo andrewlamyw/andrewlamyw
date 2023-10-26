@@ -1,6 +1,6 @@
 # StackOverflow
 
-[![user:3290143's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3290143?theme=dark)](https://github.com/johannchopin/stackoverflow-readme-profile)
+[![user:3290143's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3290143?theme=dark)](https://stackoverflow.com/users/3290143)
 
 # Technologies & Tools 🔧 
 
