@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=7cb34c)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=7cb34c)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7cb34c)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/andrewlamyw/my-stack)
 
 # Previous Work Account Contributions
 
